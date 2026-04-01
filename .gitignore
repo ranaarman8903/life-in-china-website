@@ -1,0 +1,10 @@
+# macOS / Finder junk (do not upload to Gitee)
+.DS_Store
+**/.DS_Store
+__MACOSX/
+._*
+**/._*
+.vscode/
+
+# Local release zips (optional)
+*-gitee.zip
