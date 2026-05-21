@@ -1,49 +1,109 @@
-# life-in-china-website
+# Life in China Website
 
-## Project Description
+## Project Overview
 
-This project was developed during my early academic phase and represents my first hands-on experience with front-end web development. It highlights both my technical foundation and my ability to present structured content effectively.
+Life in China Website is a multi-page personal portfolio and storytelling website developed to document and present my experiences as an international student studying in China. This project was created during the early stage of my academic journey and represents my first practical experience with front-end web development, responsive web design, and structured website development.
 
-This project is a multi-page personal website aimed at documenting and presenting my life as an international student in China. The website serves as both a personal storytelling platform and an introductory front-end development project, where I explored fundamental web technologies while organizing real-life experiences into a structured digital format.
+The website was designed as a digital platform to showcase different aspects of my student life in China, including academic experiences, campus activities, hobbies, cultural exploration, travel experiences, and daily life as an international student. The primary goal of the project was to create a structured, visually organized, and user-friendly website that allows visitors to navigate smoothly between multiple sections while maintaining a consistent design and responsive layout.
 
-The main objective of this project was to design a platform that showcases different aspects of my journey, including academic experience, campus life, cultural exploration, and personal interests. Through this website, I focused on creating a clear and well-organized structure that allows users to easily navigate between different sections of content.
+From a technical perspective, the project demonstrates foundational front-end development skills using HTML, CSS, JavaScript, and Bootstrap. The website includes multiple interconnected pages, responsive layouts optimized for different screen sizes, image galleries, interactive UI components, and navigation systems designed to improve user experience and content accessibility.
 
-From a technical perspective, this project demonstrates my ability to build a complete static website using HTML, CSS, and JavaScript. It includes multiple interconnected pages with consistent design and navigation. Bootstrap was used to support layout design, while additional JavaScript components were implemented to enhance interactivity.
+Bootstrap was used to simplify responsive layout development and component styling, while JavaScript was implemented to add frontend interactivity and improve user engagement. The project also helped strengthen my understanding of website structure, frontend architecture, responsive design principles, UI organization, and content presentation.
 
----
-
-## Project Structure
-
-- Academic journey  
-- Campus life  
-- Hobbies and activities  
-- Cultural exploration  
+Beyond technical implementation, this project reflects my ability to combine personal storytelling with frontend design and structured content management. It served as an important foundation for my later projects in web development and software engineering.
 
 ---
 
-## Technologies Used
+# Features
 
-- HTML  
-- CSS  
+- Multi-page responsive website structure  
+- Responsive design for desktop, tablet, and mobile devices  
+- Structured navigation system across multiple pages  
+- Image galleries and visual content integration  
+- Interactive frontend components including carousel and lightbox functionality  
+- Organized presentation of academic, cultural, and personal experiences  
+- User-friendly interface and layout design  
+- Consistent styling and responsive Bootstrap components  
+
+---
+
+# Website Sections
+
+- Academic Journey  
+- Campus Life  
+- Hobbies and Activities  
+- Cultural Exploration  
+- Personal Experiences and Travel  
+
+---
+
+# Technologies Used
+
+## Frontend Technologies
+
+- HTML5  
+- CSS3  
 - JavaScript  
 - Bootstrap  
 
 ---
 
-## Features
+# Project Structure
 
-- Responsive design (compatible with mobile phones, tablets, and laptops)  
-- Multi-page structured website  
-- Image galleries and visual content integration  
-- Interactive components such as carousel and lightbox  
+```text
+life-in-china-website/
+├── index.html
+├── about.html
+├── gallery.html
+├── contact.html
+├── css/
+├── js/
+├── images/
+└── assets/
+```
 
 ---
 
-## Live Website
+# Live Website
 
-https://ranaarman8903.github.io/life-in-china-website/
+https://armancodee.github.io/life-in-china-website/
 
 ---
 
-## Author
-Arman Rana Muhammad
+# Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Front-end web development fundamentals  
+- Responsive website design  
+- Multi-page website structure and navigation  
+- Bootstrap framework integration  
+- Frontend interactivity using JavaScript  
+- Website layout organization and UI design  
+- Content structuring and visual presentation  
+
+---
+
+# Future Improvements
+
+- Improved animations and transitions  
+- Dark mode support  
+- Enhanced mobile responsiveness  
+- Backend integration for dynamic content  
+- Contact form functionality  
+- Performance optimization and accessibility improvements  
+
+---
+
+# Author
+
+**Rana Arman**
+
+GitHub:  
+https://github.com/armancodee
+
+---
+
+# License
+
+This project is for educational and portfolio purposes.
